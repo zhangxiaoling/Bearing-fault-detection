@@ -9,3 +9,5 @@ dc竞赛轴承故障检测训练赛：[比赛主页](https://www.dcjingsai.com/c
 任务
 ----
 轴承有3种故障：外圈故障，内圈故障，滚珠故障，外加正常的工作状态。如表1所示，结合轴承的3种直径（直径1,直径2,直径3），轴承的工作状态有10类：
+
+![](https://github.com/zhangxiaoling/Bearing-fault-detection/blob/master/data/1.png)
