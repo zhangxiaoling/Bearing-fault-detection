@@ -42,3 +42,7 @@ dc竞赛轴承故障检测训练赛：[比赛主页](https://www.dcjingsai.com/c
 ---------
 ![](https://github.com/zhangxiaoling/Bearing-fault-detection/blob/master/WeChat%20Image_20190417160034.png)
 
+总结
+------
+这是一个基于深度学习的简单方案，传统的机器学习方法可见这位同学的![github](https://github.com/luanshiyinyang/DataMiningProject/tree/Bearing)
+
