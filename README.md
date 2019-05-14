@@ -40,5 +40,5 @@ dc竞赛轴承故障检测训练赛：[比赛主页](https://www.dcjingsai.com/c
 
 结果和排名
 ---------
-
+![](https://github.com/zhangxiaoling/Bearing-fault-detection/blob/master/WeChat%20Image_20190417160034.png)
 
