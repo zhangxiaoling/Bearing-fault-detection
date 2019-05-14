@@ -33,4 +33,8 @@ dc竞赛轴承故障检测训练赛：[比赛主页](https://www.dcjingsai.com/c
 
 2、将CNN用于一维时间信号的特征提取与识别。
 将CNN用于1D的时间信号的特征提取与识别，具体的CNN框架如下：
+![](https://github.com/zhangxiaoling/Bearing-fault-detection/blob/master/data/2.png)
+
+3、采用投票法对分类结果进行故障分类
+经过训练完毕的CNN分类器时会得到相应的七个标签，将这七个标签进行投票，得到概率最大的类别。
 
